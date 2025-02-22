@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+python-dotenv
+PyMuPDF
+pdf2image
+frontend
+openai==0.28
+pypdf2
